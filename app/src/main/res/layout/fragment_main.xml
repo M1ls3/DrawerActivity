@@ -24,9 +24,9 @@
     <Button
         android:id="@+id/activityButton"
         android:layout_width="wrap_content"
-        android:layout_height="59dp"
+        android:layout_height="wrap_content"
         android:layout_marginLeft="148dp"
-        android:layout_marginTop="336dp"
+        android:layout_marginTop="150dp"
         android:text="@string/activityButton"
         android:textColor="#FFFFFF"
         app:layout_anchorGravity="bottom|center"
